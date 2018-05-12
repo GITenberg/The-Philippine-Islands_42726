@@ -1,0 +1,25 @@
+_repo: The-Philippine-Islands_42726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42726-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Lala, Ramon Reyes
+    gutenberg_agent_id: '41843'
+    url: http://www.gutenberg.org/2009/agents/41843
+description: ''
+gutenberg_issued: '2013-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42726'
+  lccn: '99000383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Description and travel'
+- !lcc 'DS'
+title: The Philippine Islands
+url: http://www.gutenberg.org/ebooks/42726
